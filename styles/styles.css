@@ -20,6 +20,7 @@
   --overlay-background-color: #eee;
   --highlight-background-color: #ccc;
   --text-color: #202020;
+  --text-color-button: #ffffff;
   --text-color-light: #ebebeb;
   --heading-highlight-color: #ffea00;
   --overlay-text-color: var(--text-color);
@@ -49,7 +50,7 @@
   /* buttons */
   --button-background-color: var(--color-blackmores);
   --button-border-radius: 0;
-  --button-text-color: var(--text-color);
+  --button-text-color: var(--text-color-button);
   --button-padding: 1em 2.5em;
 
   /* default content */
