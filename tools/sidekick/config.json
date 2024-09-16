@@ -1,11 +1,11 @@
 {
-  "project": "WKND",
+  "project": "Blackmores",
   "plugins": [
     {
       "id": "library",
       "title": "Library",
       "environments": [ "edit" ],
-      "url": "https://main--wknd--hlxsites.hlx.live/tools/sidekick/library.html",
+      "url": "https://main--blackmores--wfranksadobe.aem.live/tools/sidekick/library.html",
       "includePaths": [ "**.docx**" ]
     },
     {
